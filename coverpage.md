@@ -1,8 +1,8 @@
 ![logo](_media/icon.svg ':size=10%')
 
-# 高等数学 <small>ioa</small>
+# 算法竞赛 <small>Xcpc</small>
 
-> ~~快乐~~的学习笔记。
+> ~~快乐~~的参考手册。
 
 - 轻巧、高效
 - 包含思考 
