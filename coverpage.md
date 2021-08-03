@@ -7,4 +7,4 @@
 - 轻巧、高效
 - 包含思考 
 
-[Get Started](#高等数学)
+[Get Started](#简介)
